@@ -2,7 +2,7 @@
 Script to collect discharge information for containers going into Port of Felixstowe and output to a .txt file.
 
 ### Input
-List of container numbers separated by a newline or \n e.g.
+List of container numbers separated by a newline e.g.
 
 	MSKU0133288
 	MRKU2616998
